@@ -1,0 +1,11 @@
+.col {
+    text-align: center;
+    border: 1px solid maroon;
+    padding: 2px ;
+}
+h2 {
+    color: maroon;
+}
+body {
+    background-image: url("22.jpg");
+}
